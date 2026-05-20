@@ -1,0 +1,14 @@
+build/
+demo/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+.DS_Store
+config/client.yaml
+config/server.yaml
+report/
+images/
+*.pcap
